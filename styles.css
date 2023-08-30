@@ -35,6 +35,7 @@ font-family: 'Roboto Slab', serif;
 
 }
 
+
 .row-2 img{
     height: 13rem;
     width: 13rem;
@@ -44,4 +45,11 @@ font-family: 'Roboto Slab', serif;
     
 
 
+}
+
+@media (max-width: 600px) {
+  col-2 {
+    max-width: 50%;
+    height: auto;
+  }
 }
