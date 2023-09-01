@@ -5,7 +5,7 @@ body {
 .carousel-item img {
     height: 35rem;
 }
-.col-2 img:hover {
+.row-2 img:hover {
     transform:scale(1.6);
     z-index: 2;
     border-radius: .5rem; 
