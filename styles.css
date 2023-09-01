@@ -1,55 +1,5 @@
-body{
-    font-family: 'Libre Baskerville', serif;
-font-family: 'Roboto Slab', serif;
-}
-
-.header1{
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   padding: .7rem 2rem;
-   background-color: aqua;
-   border-radius: 100px;
-   
-   
-}
-
-.link1 a{
-    text-decoration: none;
-    margin: 0 .2rem;
-    color: rgb(58, 7, 105);
-    font-weight: 2rem;
-    font-size: large;
-}
-
-.btn button{
-    background-color: rgb(214, 93, 12);
-    border: 0;
-    padding: .5rem;
-    border-radius: 2rem;
-    font-weight: 500;
-}
-
 .carousel-item img{
-    height: 650px;
-
+    height: 40rem;
 }
 
 
-.row-2 img{
-    height: 13rem;
-    width: 13rem;
-}
-#card img:hover{
-    transform: scale(1.6);
-    
-
-
-}
-
-@media (max-width: 600px) {
-  .row-2 img{
-    max-width: 50%;
-    height: auto;
-  }
-}
