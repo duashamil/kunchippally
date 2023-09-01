@@ -2,7 +2,7 @@
     height: 40rem;
 }
 
-#collapseThree img:hover{
+#Photoss #collapseThree img:hover{
     transform:scale(1.6);
     z-index: 2;
     border-radius: .5rem; 
