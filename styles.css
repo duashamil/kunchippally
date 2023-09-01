@@ -3,7 +3,7 @@ body {
 }
 
 .carousel-item img {
-    height: 40rem;
+    height: 35rem;
 }
 .col-2 img:hover {
     transform:scale(1.6);
